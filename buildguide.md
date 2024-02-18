@@ -54,13 +54,13 @@ CherryMXキースイッチは、親指扇形部分以外の72カ所半田付け�
 
 [QMK Toolbox](https://github.com/qmk/qmk_toolbox) のインストール・使い方については、サリチル酸さんが書かれた[（初心者編）自作キーボードにファームウェアを書き込む](https://salicylic-acid3.hatenablog.com/entry/qmk-toolbox) が分かりやすいです。
 
-minimum TL Split Keyboardのファームウエアは、 [minimumtlsplit_default.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/master/minimumtlsplit_default.hex) をダウンロードしてQMK Toolboxで書き込みます。
+minimum TL Split Keyboardのファームウエアは、 [minimumtlsplit_default.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/master/hex/minimumtlsplit_default.hex) をダウンロードしてQMK Toolboxで書き込みます。
 
 ファームウェアは、左右のProMicroそれぞれに書き込む必要があります。
 
-他のキーマップに変更したい場合は、VIA対応ファームウェアも準備しています。[minimumtlsplit_via.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/master/minimumtlsplit_via.hex) をダウンロードして、QMK Toolboxで書き込みます。
+他のキーマップに変更したい場合は、VIA対応ファームウェアも準備しています。[minimumtlsplit_via.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/master/hex/minimumtlsplit_via.hex) をダウンロードして、QMK Toolboxで書き込みます。
 
-Dvorak配列のファームも公開しています。[minimumtlsplit_dvorak.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/master/minimumtlsplit_dvorak.hex) をダウンロードして、QMK Toolboxで書き込みます。
+Dvorak配列のファームも公開しています。[minimumtlsplit_dvorak.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/master/hex/minimumtlsplit_dvorak.hex) をダウンロードして、QMK Toolboxで書き込みます。
 
 VIA対応ファームウェアの場合、Webサイトからキーマップを変更できる [REMAP](https://remap-keys.app/)  も利用できます。
 [REMAPのminimum TL Split Keyboardページ](https://remap-keys.app/catalog/AqZy7RsTgu0kxObJxxYr)  から書き換えてみてください。
