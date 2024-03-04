@@ -71,7 +71,7 @@ minimum TL Split Keyboardのファームウエアは、 [satromi_mintlsplit_defa
 Dvorak配列のファームも公開しています。[satromi_mintlsplit_dvorak.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/main/hex/satromi_mintlsplit_dvorak.hex) をダウンロードして、QMK Toolboxで書き込みます。
 
 VIA対応ファームウェアの場合、Webサイトからキーマップを変更できる [REMAP](https://remap-keys.app/)  も利用できます。
-[REMAPのminimum TL Split Keyboardページ](https://remap-keys.app/catalog/AqZy7RsTgu0kxObJxxYr)  から書き換えてみてください。
+[REMAPのminimum TL Split Keyboardページ](https://remap-keys.app/catalog/6Lzaoh8tO5NVf4gDDHTs)  から書き換えてみてください。
 
 ## 動作確認
 
