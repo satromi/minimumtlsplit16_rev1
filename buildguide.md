@@ -66,9 +66,9 @@ minimum TL Split Keyboardのファームウエアは、 [satromi_mintlsplit_defa
 
 ファームウェアは、左右のProMicroそれぞれに書き込む必要があります。
 
-他のキーマップに変更したい場合は、VIA対応ファームウェアも準備しています。[satromi_mintlsplit_via.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/main/hex/satromi_mintlsplit_via.hex) をダウンロードして、QMK Toolboxで書き込みます。
-
 Dvorak配列のファームも公開しています。[satromi_mintlsplit_dvorak.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/main/hex/satromi_mintlsplit_dvorak.hex) をダウンロードして、QMK Toolboxで書き込みます。
+
+他のキーマップに変更したい場合は、VIA対応ファームウェアも準備しています。[satromi_mintlsplit_via.hex](https://github.com/satromi/minimumtlsplit16_rev1/blob/main/hex/satromi_mintlsplit_via.hex) をダウンロードして、QMK Toolboxで書き込みます。
 
 VIA対応ファームウェアの場合、Webサイトからキーマップを変更できる [REMAP](https://remap-keys.app/)  も利用できます。
 [REMAPのminimum TL Split Keyboardページ](https://remap-keys.app/catalog/6Lzaoh8tO5NVf4gDDHTs)  から書き換えてみてください。
